@@ -1,10 +1,10 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "https://coffeebreakatwork-dashboard.herokuapp.com",
+    "appId": "coffeebreakatwork-dashboard",
+    "masterKey": "coffeebreakatwork-dashboard",
+    "appName": "coffeebreakatwork-dashboard",
+    "iconName": "coffeebreakatwork-dashboard"
   }],
   "iconsFolder": "icons"
 }
