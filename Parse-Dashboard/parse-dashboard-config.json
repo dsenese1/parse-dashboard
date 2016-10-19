@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://coffeebreakatwork-dashboard.herokuapp.com",
+    "serverURL": "https://coffeebreakatwork-dashboard.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
     "appName": "coffeebreakatwork-dashboard",
