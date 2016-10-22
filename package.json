@@ -19,7 +19,9 @@
     "dashboard"
   ],
   "homepage": "https://github.com/ParsePlatform/parse-dashboard",
-  "bugs": "https://github.com/ParsePlatform/parse-dashboard/issues",
+  "bugs": {
+    "url": "https://github.com/ParsePlatform/parse-dashboard/issues"
+  },
   "version": "1.0.18",
   "repository": {
     "type": "git",
@@ -103,5 +105,6 @@
       "react-addons-test-utils",
       "fbjs"
     ]
-  }
+  },
+  "author": "damiano"
 }
