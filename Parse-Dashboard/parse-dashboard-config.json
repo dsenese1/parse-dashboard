@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "https://coffeebreakatwork.herokuapp.com",
+    "serverURL": "https://coffeebreakatwork-alpha.herokuapp.com",
     "appId": "12345",
     "masterKey": "12345",
-    "appName": "coffeebreakatwork",
+    "appName": "coffeebreakatwork-alpha",
   }],
   "iconsFolder": "icons"
 }
